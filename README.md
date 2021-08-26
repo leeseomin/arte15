@@ -1,4 +1,4 @@
-# arte15
+# arte15  = arte8 x arte5
 
 
 

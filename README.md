@@ -101,7 +101,7 @@ bash main.sh
 
 ### License
 
-The code is based on Dmitry Ulyanov's texture_nets.
+The code is partialy based on Dmitry Ulyanov's texture_nets.
 
 This repo is made freely available to academic and non-academic entities for non-commercial purposes 
 such as academic research, teaching, scientific publications. 

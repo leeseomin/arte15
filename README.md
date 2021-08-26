@@ -78,36 +78,7 @@ bash main.sh
 
 
 
-### input image2
 
- <img src="https://github.com/leeseomin/arte5/blob/main/s/monet.png" width="700">
-
-### output (image2)
- 
-  <img src="https://github.com/leeseomin/arte5/blob/main/out/monetout.png" width="2000">
-
-
-
-
-### input image3
-
- <img src="https://github.com/leeseomin/arte5/blob/main/s/2855.png" width="700">
-
-### output (image3)
- 
-
-  <img src="https://github.com/leeseomin/arte5/blob/main/out/2855out.png" width="2000">
-
-
-
-
-### input image5
-
- <img src="https://github.com/leeseomin/arte5/blob/main/s/11.png" width="700">
-
-### output (image5)
- 
-  <img src="https://github.com/leeseomin/arte5/blob/main/out/11out.png" width="2000">
 
 
 ```  

@@ -2,6 +2,7 @@
 
   <img src="https://github.com/leeseomin/arte15/blob/main/out/11toon14.png" width="2000">
 
+  <img src="https://github.com/leeseomin/arte15/blob/main/out/hillresult.png" width="2000">
 
 ### Dependency install on ubuntu 16.04  + torch7 + cuda+  nvidia Pascal gpus (ex. gtx1080ti, gtx1080, gtx1070, gtx1070ti)
 

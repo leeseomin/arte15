@@ -70,7 +70,7 @@ bash main.sh
 
 ### input image1
 
- <img src="https://github.com/leeseomin/arte5/blob/main/s/IMG_2881" width="700">
+ <img src="https://github.com/leeseomin/arte15/blob/main/s/IMG_2881.png" width="700">
 
 ### output (image1)
  

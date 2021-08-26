@@ -68,11 +68,23 @@ bash main.sh
 
 ###  Results
 
+
+
 ### input image1
+
+ <img src="https://github.com/leeseomin/arte15/blob/main/s/11.png" width="700">
+
+### output (image1)
+ 
+  <img src="https://github.com/leeseomin/arte15/blob/main/out/11toon14.png" width="2000">
+  
+  
+
+### input image2
 
  <img src="https://github.com/leeseomin/arte15/blob/main/s/IMG_2881.png" width="700">
 
-### output (image1)
+### output (image2)
  
   <img src="https://github.com/leeseomin/arte15/blob/main/out/IMG_2881toon14.png" width="2000">
 

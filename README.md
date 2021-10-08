@@ -1,7 +1,7 @@
 # arte15  = arte8 x arte5
 
 
-  <img src="https://github.com/leeseomin/arte15/blob/main/out/IMG_3036toon14.png" width="2000">
+  <img src="https://github.com/leeseomin/arte15/blob/main/out/IMG_3036toon14.png" width="1600">
 
 
   <img src="https://github.com/leeseomin/arte15/blob/main/out/11toon14.png" width="2000">
